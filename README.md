@@ -69,11 +69,10 @@ and continuously improving my development skills.
 
 <br><br>
 
-
 <br><br>
 
-
 </div>
+
 ---
 <div align="center">
 
