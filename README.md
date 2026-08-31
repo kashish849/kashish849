@@ -77,5 +77,6 @@ and continuously improving my development skills.
 🌸Thanks for visiting my profile!🌸
 
 </div>
-
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer"/>
