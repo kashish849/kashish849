@@ -1,41 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Kashish
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=2500&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kashish+%F0%9F%8C%B8;Full+Stack+Developer+%F0%9F%92%97;AI+Enthusiast+%F0%9F%A4%96" />
 
-### 💻 Full Stack Developer | CSE (AI) Student | AI Enthusiast
+### 💻 CSE (AI) Student | Full Stack Developer | AI Enthusiast
 
-<a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-e75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/kashish849">
-<img src="https://img.shields.io/badge/GitHub-e75480?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
+    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kashish849">
+    <img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-## 🌸 About Me
-
-</div>
-
-🎓 B.Tech Computer Science Engineering (Artificial Intelligence) student  
-💻 Aspiring Full Stack Developer  
-🤖 Interested in Artificial Intelligence & Generative AI  
-☁️ AWS Certified Cloud Practitioner  
-🚀 Passionate about building practical real-world applications  
-🌱 Always learning and improving my development skills
-
----
-
-<div align="center">
-
-## 🛠️ Skills
-
-**Java** • **Python** • **JavaScript** • **HTML** • **CSS** • **React.js** • **Tailwind CSS** • **Node.js** • **Express.js** • **MongoDB** • **MySQL** • **AWS** • **Git** • **GitHub** • **VS Code**
+🌸 Building • Learning • Creating 🌸
 
 </div>
 
@@ -43,9 +21,40 @@
 
 <div align="center">
 
-## 🎯 Currently Learning
+## 🌷 About Me
 
-**Advanced React.js** • **Backend Development** • **REST APIs** • **Generative AI** • **Cloud Technologies**
+</div>
+
+<p align="center">
+🎓 B.Tech CSE (Artificial Intelligence) Student<br>
+💻 Aspiring Full Stack Developer<br>
+🤖 Passionate about Artificial Intelligence & Generative AI<br>
+🚀 Building practical and real-world web applications<br>
+☁️ AWS Certified Cloud Practitioner<br>
+🌱 Always learning and improving
+</p>
+
+---
+
+<div align="center">
+
+## 💗 Skills & Technologies
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,aws" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+✨ Advanced React.js  
+✨ Backend Development  
+✨ REST APIs  
+✨ Generative AI  
+✨ Cloud Technologies
 
 </div>
 
@@ -55,23 +64,10 @@
 
 ## 🏆 Certifications
 
-☁️ **AWS Certified Cloud Practitioner**  
-🤖 **Artificial Intelligence Fundamentals — IBM**  
-🐍 **Python for Data Science — Infosys Springboard**  
-🍃 **Building Gen AI Apps — MongoDB**
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 Experience
-
-### ServiceNow Virtual Internship
-
-Completed a virtual internship covering ServiceNow fundamentals,
-Agentic AI, Administration, Flows, ATF Essentials, and Reports.
+☁️ AWS Certified Cloud Practitioner  
+🤖 Artificial Intelligence Fundamentals — IBM  
+🐍 Python for Data Science — Infosys Springboard  
+🍃 Building Gen AI Apps — MongoDB
 
 </div>
 
@@ -81,19 +77,11 @@ Agentic AI, Administration, Flows, ATF Essentials, and Reports.
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashish849&show_icons=true&hide_border=true&title_color=e75480&icon_color=e75480&text_color=666666&bg_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=kashish849&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=E75480&icon_color=E75480&text_color=555555&ring_color=E75480" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish849&layout=compact&hide_border=true&title_color=e75480&text_color=666666&bg_color=ffffff" />
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=kashish849&hide_border=true&ring=e75480&fire=e75480&currStreakLabel=e75480" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish849&layout=compact&hide_border=true&bg_color=fff5f8&title_color=E75480&text_color=555555" />
 
 </div>
 
@@ -101,20 +89,18 @@ Agentic AI, Administration, Flows, ATF Essentials, and Reports.
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 💕 Let's Connect
 
 <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-e75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;
-
 <a href="https://github.com/kashish849">
-<img src="https://img.shields.io/badge/GitHub-e75480?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-🌸 Thanks for visiting my profile!
+🌸 **Thanks for visiting my profile!** 🌸
 
 </div>
