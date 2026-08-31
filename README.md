@@ -7,11 +7,13 @@
 <br>
 
 <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-e91e63?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://github.com/kashish849">
-<img src="https://img.shields.io/badge/GitHub-e91e63?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-kashish849-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -51,80 +53,21 @@ and turning ideas into real-world solutions.
 
 <div align="center">
 
-## 🎀 My Projects
-
-</div>
-
-### 🏫 Smart Classroom & Timetable Scheduler
-
-AI-powered full-stack classroom and timetable scheduling system.
-
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
-
-<a href="https://github.com/kashish849/smart-classroom-and-timetable-scheduler">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-e91e63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 📄 Resume Builder Website
-
-Resume builder with multiple templates, live preview, themes and PDF saving.
-
-**Tech:** HTML • CSS • JavaScript • Node.js
-
-<a href="https://github.com/kashish849/Resume-builder-website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-e91e63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 🌐 Personal Portfolio Website
-
-Responsive portfolio website showcasing my skills, projects and resume.
-
-**Tech:** HTML • CSS • JavaScript
-
-<a href="https://github.com/kashish849/personal-portfolio-website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-e91e63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 🎓 Responsive Educational Website
-
-Responsive educational website with course pages, interactive UI and contact form.
-
-**Tech:** HTML • CSS • JavaScript
-
-<a href="https://github.com/kashish849/Responsive-educational-website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-e91e63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-<div align="center">
-
-## 🌷 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
-
-<br><br>
-
-🤖 Generative AI &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 🧠 DSA
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏆 Certifications
 
-☁️ AWS Certified Cloud Practitioner  
-🤖 Artificial Intelligence Fundamentals — IBM  
-🐍 Python for Data Science — Infosys Springboard  
-🍃 Building Gen AI Apps — MongoDB
+☁️ **AWS Certified Cloud Practitioner**
+
+<br>
+
+🤖 **Artificial Intelligence Fundamentals — IBM**
+
+<br>
+
+🐍 **Python for Data Science — Infosys Springboard**
+
+<br>
+
+🍃 **Building Gen AI Apps Learning Badge Path — MongoDB**
 
 </div>
 
@@ -134,9 +77,13 @@ Responsive educational website with course pages, interactive UI and contact for
 
 ## 💼 Experience
 
-🌸 **ServiceNow Virtual Internship**
+### 🌸 ServiceNow Virtual Internship
 
-ServiceNow Fundamentals • Agentic AI • Administration • Flows • ATF • Reports
+Completed a virtual internship covering:
+
+`ServiceNow Fundamentals` • `Agentic AI` • `Administration Fundamentals`
+
+`Flows` • `ATF Essentials` • `Reports`
 
 </div>
 
@@ -144,13 +91,29 @@ ServiceNow Fundamentals • Agentic AI • Administration • Flows • ATF • 
 
 <div align="center">
 
-## 📊 GitHub
+## 🎯 My Goals
 
-<img src="https://github-readme-stats.vercel.app/api?username=kashish849&show_icons=true&hide_border=true&title_color=e91e63&icon_color=e91e63&text_color=555555&bg_color=fff5f9"/>
+🌱 Become a strong Full Stack Developer
 
-<br>
+💻 Build production-quality applications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish849&layout=compact&hide_border=true&title_color=e91e63&text_color=555555&bg_color=fff5f9"/>
+🤖 Explore AI-powered web applications
+
+☁️ Learn Cloud & DevOps technologies
+
+🌍 Contribute to Open Source
+
+🧠 Strengthen problem-solving & DSA
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish849&bg_color=fff5f9&color=e91e63&line=e91e63&point=ff69b4&area=true&hide_border=true"/>
 
 </div>
 
@@ -160,12 +123,16 @@ ServiceNow Fundamentals • Agentic AI • Administration • Flows • ATF • 
 
 ## 💕 Let's Connect
 
+<br>
+
 <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-e91e63?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/kashish849">
-<img src="https://img.shields.io/badge/GitHub-e91e63?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
