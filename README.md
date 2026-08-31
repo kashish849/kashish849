@@ -78,9 +78,6 @@ and continuously improving my development skills.
 
 ---
 
-<div align="center">
-
-
 
 ## Let's Connect
 
