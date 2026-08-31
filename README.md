@@ -61,8 +61,7 @@ and continuously improving my development skills.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish849&hide_border=true&background=FFFFFF&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&sideLabels=0B1F3A&dates=666666" />
 
-<br><br>
-
+<br>
 </div>
 
 ---
