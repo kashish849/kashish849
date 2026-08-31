@@ -69,7 +69,6 @@ and continuously improving my development skills.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish849&bg_color=ffffff&color=0B1F3A&line=E91E63&point=ff69b4&area=true&hide_border=true" />
 
 <br><br>
 
@@ -77,7 +76,7 @@ and continuously improving my development skills.
 </div>
 
 ---
-
+<div align="center">
 
 ## Let's Connect
 
