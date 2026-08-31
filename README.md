@@ -1,17 +1,18 @@
 <div align="center">
 
-# ✨ Kashish ✨
+# <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Kashish&fontSize=60&fontColor=ff69b4&animation=fadeIn&fontAlignY=55" width="500"/>
 
-### 💻 Full Stack Developer | CSE (AI) Student
+### 💻 Full Stack Developer | CSE (AI) Student | AI Enthusiast
 
-<p>
-  <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kashish849">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kashish849">
+<img src="https://img.shields.io/badge/GitHub-kashish849-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -20,26 +21,40 @@
 ## 👋 About Me
 
 I'm a B.Tech Computer Science Engineering (Artificial Intelligence)
-student and aspiring Full Stack Developer passionate about building
-practical web applications and AI-powered solutions.
+student and aspiring Full Stack Developer.
+
+I enjoy building practical web applications and exploring
+Artificial Intelligence and Generative AI.
 
 - 🎓 B.Tech CSE (AI)
-- 💻 Interested in Full Stack Development
-- 🤖 Exploring Artificial Intelligence & Generative AI
+- 💻 Full Stack Development
+- 🤖 Artificial Intelligence & Generative AI
 - ☁️ AWS Certified Cloud Practitioner
-- 🌱 Learning and building real-world projects
+- 🌱 Always learning and building
 
 ---
 
-<div align="center">
-
 ## 🛠️ Skills
 
-**Java** • **Python** • **JavaScript** • **HTML** • **CSS** •
-**React.js** • **Tailwind CSS** • **Node.js** • **Express.js** •
-**MongoDB** • **MySQL** • **AWS** • **Git** • **GitHub**
+**Languages**
 
-</div>
+`Java` `Python` `JavaScript`
+
+**Frontend**
+
+`HTML` `CSS` `React.js` `Tailwind CSS`
+
+**Backend**
+
+`Node.js` `Express.js`
+
+**Database**
+
+`MongoDB` `MySQL`
+
+**Tools & Cloud**
+
+`Git` `GitHub` `VS Code` `AWS`
 
 ---
 
@@ -47,48 +62,51 @@ practical web applications and AI-powered solutions.
 
 ### 🏫 Smart Classroom and Timetable Scheduler
 
-A full-stack smart classroom and timetable scheduling system built
-to manage lecture timings, classroom allocation, and schedules.
+A full-stack smart classroom and timetable scheduling system
+built to manage lecture timings, classroom allocation,
+and schedule management.
 
 **Highlights**
+
 - AI-based timetable generation
 - Classroom allocation
 - AI-powered chatbot assistant
 - Schedule management
 - Timetable conflict reduction
 
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
+**Tech:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB
 
-[🔗 View Repository](https://github.com/kashish849/smart-classroom-and-timetable-scheduler)
+🔗 [Repository](https://github.com/kashish849/smart-classroom-and-timetable-scheduler)
 
 ---
 
 ### 📄 Resume Builder Website
 
-A resume builder website with multiple templates, live preview,
-color themes, and light/dark mode.
+A resume builder website with multiple templates,
+live preview, color themes, and light/dark mode.
 
 **Highlights**
+
 - 4 resume templates
 - Live preview
 - Color themes
 - Light/Dark mode
 - PDF saving
 
-**Tech:** HTML • CSS • JavaScript • Node.js
+**Tech:** HTML · CSS · JavaScript · Node.js
 
-[🔗 View Repository](https://github.com/kashish849/Resume-builder-website)
+🔗 [Repository](https://github.com/kashish849/Resume-builder-website)
 
 ---
 
 ### 🌐 Personal Portfolio Website
 
-A responsive portfolio website created to showcase my technical
-skills, projects, resume, and contact information.
+A responsive portfolio website designed to showcase
+my technical skills, projects, resume, and contact information.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML · CSS · JavaScript
 
-[🔗 View Repository](https://github.com/kashish849/personal-portfolio-website)
+🔗 [Repository](https://github.com/kashish849/personal-portfolio-website)
 
 ---
 
@@ -97,17 +115,15 @@ skills, projects, resume, and contact information.
 A responsive educational website featuring course pages,
 interactive UI, responsive navigation, and a contact form.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML · CSS · JavaScript
 
-[🔗 View Repository](https://github.com/kashish849/Responsive-educational-website)
+🔗 [Repository](https://github.com/kashish849/Responsive-educational-website)
 
 ---
 
 ## 💼 Experience
 
 ### ServiceNow Virtual Internship
-
-**ServiceNow University | July 2026**
 
 Completed a virtual internship covering:
 
@@ -122,53 +138,26 @@ Completed a virtual internship covering:
 
 ## 🏆 Certifications
 
-- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
-- 🤖 Artificial Intelligence Fundamentals — IBM
-- 🐍 Python for Data Science — Infosys Springboard
-- 🍃 Building Gen AI Apps Learning Badge Path — MongoDB
+- AWS Certified Cloud Practitioner
+- Artificial Intelligence Fundamentals — IBM
+- Python for Data Science — Infosys Springboard
+- Building Gen AI Apps Learning Badge Path — MongoDB
 
 ---
-
-<div align="center">
 
 ## 🌱 Currently Learning
 
-**React.js** • **Node.js** • **REST APIs** • **Generative AI** • **Cloud**
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 GitHub Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish849&theme=minimal&hide_border=true&area=true"/>
-
-</div>
+- Advanced React.js
+- Backend Development
+- REST APIs
+- Generative AI
+- Cloud & Deployment
+- Data Structures & Algorithms
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🔥 Contributions
 
-<a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/kashish849">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-✨ **Keep Learning • Keep Building • Keep Growing** ✨
-
-</div>
+<img src="https://streak-stats.demolab.com/?user=kashish849&hide_border=true&background=ffffff&ring=ff69b4&fire=ff69b4
