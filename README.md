@@ -74,7 +74,6 @@ and continuously improving my development skills.
 
 
 </div>
-
 ---
 <div align="center">
 
