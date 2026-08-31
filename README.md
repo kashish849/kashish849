@@ -73,7 +73,6 @@ and continuously improving my development skills.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kashish849&label=Profile%20Views&color=E91E63&style=flat-square" />
 
 </div>
 
