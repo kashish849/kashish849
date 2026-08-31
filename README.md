@@ -80,15 +80,7 @@ and continuously improving my development skills.
 
 <div align="center">
 
-## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kashish849/kashish849/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## Let's Connect
 
@@ -104,7 +96,7 @@ and continuously improving my development skills.
 
 <br><br>
 
-Thanks for visiting my profile!
+🌸Thanks for visiting my profile!🌸
 
 </div>
 
