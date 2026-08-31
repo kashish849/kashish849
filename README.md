@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hey%2C%20I'm%20Kashish!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hey%2C%20I'm%20Kashish!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSE+(AI)+Student;AI+%26+Web+Development+Enthusiast;Building+Ideas+Into+Real+Projects"/>
 
@@ -20,13 +20,17 @@
 
 <div align="center">
 
-## 🌸 About Me
+## About Me
 
-🎓 B.Tech CSE (Artificial Intelligence) Student  
-💻 Aspiring Full Stack Developer  
-🤖 AI & Web Development Enthusiast  
-🚀 Building practical, real-world applications  
-☁️ AWS Certified Cloud Practitioner
+<p>
+I am <strong>Kashish</strong>, a B.Tech Computer Science Engineering
+(Artificial Intelligence) student at <strong>Meerut Institute of
+Engineering and Technology (MIET), Meerut</strong>. I am an aspiring
+<strong>Full Stack Developer</strong> with an interest in Artificial
+Intelligence, web development, and building practical real-world
+applications. I enjoy learning new technologies, solving problems,
+and continuously improving my development skills.
+</p>
 
 </div>
 
@@ -34,7 +38,7 @@
 
 <div align="center">
 
-## 💗 Skills
+## Skills
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,aws" />
 
@@ -44,21 +48,12 @@
 
 <div align="center">
 
-## 🏆 Certifications
+## Certifications
 
-☁️ **AWS Certified Cloud Practitioner**
-
-<br>
-
-🤖 **Artificial Intelligence Fundamentals — IBM**
-
-<br>
-
-🐍 **Python for Data Science — Infosys Springboard**
-
-<br>
-
-🍃 **Building Gen AI Apps Learning Badge Path — MongoDB**
+**AWS Certified Cloud Practitioner** &nbsp; • &nbsp;
+**Artificial Intelligence Fundamentals — IBM** &nbsp; • &nbsp;
+**Python for Data Science — Infosys Springboard** &nbsp; • &nbsp;
+**Building Gen AI Apps Learning Badge Path — MongoDB**
 
 </div>
 
@@ -66,30 +61,19 @@
 
 <div align="center">
 
-## 💼 Experience
+## GitHub Contributions
 
-### 🌸 ServiceNow Virtual Internship
+<br>
 
-Completed a virtual internship covering:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish849&hide_border=true&background=FFFFFF&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&sideLabels=0B1F3A&dates=666666" />
 
-`ServiceNow Fundamentals` • `Agentic AI` • `Administration Fundamentals`
+<br><br>
 
-`Flows` • `ATF Essentials` • `Reports`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish849&bg_color=ffffff&color=0B1F3A&line=E91E63&point=ff69b4&area=true&hide_border=true" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-## 🎯 My Goals
-
-🌱 Become a strong Full Stack Developer  
-💻 Build production-quality applications  
-🤖 Explore AI-powered applications  
-☁️ Learn Cloud & DevOps  
-🌍 Contribute to Open Source  
-🧠 Strengthen DSA & Problem Solving
+<img src="https://komarev.com/ghpvc/?username=kashish849&label=Profile%20Views&color=E91E63&style=flat-square" />
 
 </div>
 
@@ -97,7 +81,7 @@ Completed a virtual internship covering:
 
 <div align="center">
 
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/kashish849/kashish849/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
@@ -107,7 +91,7 @@ Completed a virtual internship covering:
 
 <div align="center">
 
-## 💕 Let's Connect
+## Let's Connect
 
 <br>
 
@@ -121,7 +105,7 @@ Completed a virtual internship covering:
 
 <br><br>
 
-🌸 *Thanks for visiting my profile!* 🌸
+Thanks for visiting my profile!
 
 </div>
 
