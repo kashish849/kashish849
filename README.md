@@ -7,13 +7,11 @@
 <br>
 
 <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://github.com/kashish849">
-<img src="https://img.shields.io/badge/GitHub-kashish849-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -24,20 +22,13 @@
 
 ## 🌸 About Me
 
+🎓 B.Tech CSE (Artificial Intelligence) Student  
+💻 Aspiring Full Stack Developer  
+🤖 AI & Web Development Enthusiast  
+🚀 Building practical, real-world applications  
+☁️ AWS Certified Cloud Practitioner
+
 </div>
-
-<p align="center">
-🎓 B.Tech CSE (Artificial Intelligence) Student
-&nbsp; • &nbsp;
-💻 Aspiring Full Stack Developer
-&nbsp; • &nbsp;
-🤖 AI Enthusiast
-</p>
-
-<p align="center">
-I enjoy creating modern, responsive and practical web applications
-and turning ideas into real-world solutions.
-</p>
 
 ---
 
@@ -93,17 +84,12 @@ Completed a virtual internship covering:
 
 ## 🎯 My Goals
 
-🌱 Become a strong Full Stack Developer
-
-💻 Build production-quality applications
-
-🤖 Explore AI-powered web applications
-
-☁️ Learn Cloud & DevOps technologies
-
-🌍 Contribute to Open Source
-
-🧠 Strengthen problem-solving & DSA
+🌱 Become a strong Full Stack Developer  
+💻 Build production-quality applications  
+🤖 Explore AI-powered applications  
+☁️ Learn Cloud & DevOps  
+🌍 Contribute to Open Source  
+🧠 Strengthen DSA & Problem Solving
 
 </div>
 
@@ -111,9 +97,9 @@ Completed a virtual internship covering:
 
 <div align="center">
 
-## 📊 GitHub Contributions
+## 🐍 Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish849&bg_color=fff5f9&color=e91e63&line=e91e63&point=ff69b4&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/kashish849/kashish849/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -126,11 +112,9 @@ Completed a virtual internship covering:
 <br>
 
 <a href="https://www.linkedin.com/in/kashish-a93b1b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://github.com/kashish849">
 <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
